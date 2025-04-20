@@ -1,0 +1,3 @@
+buckets = [
+  "my-test-juan"
+]
